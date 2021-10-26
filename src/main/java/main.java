@@ -3,4 +3,7 @@ public class main {
         System.out.printf("hello world");
         
     }
+    private void displayText(){ 
+        System.out.println("zmiana w drugim repo");
+    }
 }
